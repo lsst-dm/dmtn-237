@@ -18,11 +18,16 @@ Screenshots
 -----------
 
 .. image:: /_static/screenshot1.png
-   :target: ../_images/screenshot1.png
+   :target: _images/screenshot1.png
 
+|
+|
 
 .. image:: /_static/screenshot2.png
-   :target: ../_images/screenshot2.png
+   :target: _images/screenshot2.png
+
+|
+|
 
 Implementation
 ==============
