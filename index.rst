@@ -38,9 +38,9 @@ for interactivity. It may be necessary in the future to port the navigator to Ja
 better control over the UI interactions.
 
 The navigator is deployed via `phalanx <https://github.com/lsst-sqre/phalanx>`__, and can be enabled
-on any phalanx site where a butler repo is available. A plot-navigator instance can only serve data
-from a single Butler repo; there is not currently any functionality to allow users to select between
-multiple available repos.
+on any phalanx site where a butler repo is available. On sites where it is enabled, it is available
+at `/plot-navigator`. A plot-navigator instance can only serve data from a single Butler repo; there
+is not currently any functionality to allow users to select between multiple available repos.
 
 Future Steps
 ============
